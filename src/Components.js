@@ -11,6 +11,7 @@ export const Container = styled.View`
 export const Panel = styled.View`
   background-color: ${({bg}) => bg || 'white'};
   width: 80%;
+  margin: 10%;
   padding: 10%;
   border-radius: 10px;
   elevation: 10;
