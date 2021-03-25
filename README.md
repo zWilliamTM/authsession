@@ -6,7 +6,7 @@ Application Signed
 * npx yarn android / ios
 
 
-![Home](./assets/home.png =400x800)
+![Home](./assets/home.png | width=400)
 
 ![Home1](./assets/h1.png =400x800)
 
