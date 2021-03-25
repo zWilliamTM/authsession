@@ -1,2 +1,2 @@
-# authsession
+# AuthSession
 Application Signed
